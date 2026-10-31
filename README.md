@@ -71,5 +71,5 @@ The project uses retail business data containing information about:
 This project demonstrates the application of Excel, SQL, Python, and Power BI in solving retail business analysis problems. It provides practical experience in data preparation, database management, data analysis, customer segmentation, and business intelligence reporting.
 
 ## Dashboard
-Dashboard1_overview.png
+
 
